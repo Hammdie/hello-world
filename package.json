@@ -30,6 +30,6 @@
     "lib/*.js",
     "lib/*.css",
     "lib/*.ts",
-    "READMY.md"
+    "README.md"
   ]
 }
