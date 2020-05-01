@@ -2,7 +2,7 @@
 Here is a simple TypeScript-React component for NPM publishing with minimal dependencies.
 Use that as a template to provide you own amazing component collections as npm packages.  Have a fanny coding. 
 
-#Usage
+# Usage
 ```
 npm i @diemtarh/hello-world
 ```
