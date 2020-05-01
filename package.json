@@ -1,0 +1,35 @@
+{
+  "name": "@diemtarh/hello-world",
+  "description": "",
+  "version": "1.0.4",
+  "main": "lib/index.js",
+  "author": "Dietmar Hamm",
+  "license": "ISC",
+  "scripts": {
+    "test": "npm run build && cd dist && NODE_ENV=test node jasmine.js",
+    "build-dev": "tsc -w",
+    "build": "tsc",
+    "publish-patch": "npm version patch && npm publish --access public"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "keywords": [
+    "REACT",
+    "TypeScript"
+  ],
+  "files": [
+    "lib/*.js",
+    "lib/*.css",
+    "lib/*.ts",
+    "READMY.md"
+  ]
+}
