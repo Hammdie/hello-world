@@ -1,7 +1,7 @@
 {
   "name": "@diemtarh/hello-world",
   "description": "",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "lib/index.js",
   "author": "Dietmar Hamm",
   "license": "ISC",
