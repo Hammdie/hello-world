@@ -1,6 +1,6 @@
 {
   "name": "@diemtarh/hello-world",
-  "description": "",
+  "description": "Template to build and publish a TypeScript React Components To NPM",
   "version": "1.0.11",
   "main": "lib/index.js",
   "author": "Dietmar Hamm",
